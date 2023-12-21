@@ -1,0 +1,12 @@
+Y:\Groups\Group_1\רוטשילד  שולמית\דוטנט\דוטנט\SchoolSys-main\School.Core\bin\Debug\net6.0\School.Core.deps.json
+Y:\Groups\Group_1\רוטשילד  שולמית\דוטנט\דוטנט\SchoolSys-main\School.Core\bin\Debug\net6.0\School.Core.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\דוטנט\דוטנט\SchoolSys-main\School.Core\bin\Debug\net6.0\School.Core.pdb
+Y:\Groups\Group_1\רוטשילד  שולמית\דוטנט\דוטנט\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\רוטשילד  שולמית\דוטנט\דוטנט\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\רוטשילד  שולמית\דוטנט\דוטנט\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\רוטשילד  שולמית\דוטנט\דוטנט\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.AssemblyInfo.cs
+Y:\Groups\Group_1\רוטשילד  שולמית\דוטנט\דוטנט\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\רוטשילד  שולמית\דוטנט\דוטנט\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\דוטנט\דוטנט\SchoolSys-main\School.Core\obj\Debug\net6.0\refint\School.Core.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\דוטנט\דוטנט\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.pdb
+Y:\Groups\Group_1\רוטשילד  שולמית\דוטנט\דוטנט\SchoolSys-main\School.Core\obj\Debug\net6.0\ref\School.Core.dll
